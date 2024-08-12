@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital@0;1&display=swap");
+
+.header {
+  /* padding: 20px 0; */
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  border-bottom: 1px solid white;
+}
+
+.adminIcon {
+  font-size: 26px;
+  padding: 0px 0px 0px 10px;
+}
+
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  margin-top: 12px;
+}
